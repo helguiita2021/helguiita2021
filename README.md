@@ -1,8 +1,12 @@
-## OI ME CHAMO HELGA👋
+## OI ME CHAMO HELGA👋!
+
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/HelgaSouza?cardType=github&theme=radical&preferLogin=false)](https://git.io/awesome-stats-card)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Helga&theme=github-dark&hide_border=falso&locale=pt_BR&mode=weekly)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **helguiita2021/helguiita2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
