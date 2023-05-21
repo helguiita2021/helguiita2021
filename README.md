@@ -10,7 +10,7 @@ Oi me chamo Helga.Curso Ciencias da Computação no instituto federal de educaç
 
 div {
 
-background-color:black;
+background-color:grey11;
 
 
 }
@@ -65,10 +65,7 @@ text-decoration:overline underline;color:black;
 
 <h3>Meus Repositórios</h3>
 
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helguiita2021&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helguiita2021&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helguiita2021a&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 
 </br>
@@ -76,10 +73,3 @@ text-decoration:overline underline;color:black;
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=helguiita2021&bg_color=000000&color=ff00ff&line=a9a9a9&point=00ffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
-
-
-
-
-
-
-
