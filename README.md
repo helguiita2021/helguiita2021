@@ -1,5 +1,4 @@
-
-<img src="https://scontent.fssa17-1.fna.fbcdn.net/v/t39.30808-6/347858868_908227746950811_6194513278621068443_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeHd6b7KtVkKkY4pIi_X-aL6FhvZnYApddEWG9mdgCl10cZz_srs3RojaY8G5KWyUBVo4RaI30Mh6VIk5b8nfaV-&_nc_ohc=9EjS7YFVFjgAX_B-HN8&_nc_ht=scontent.fssa17-1.fna&oh=00_AfD6UCaBnQupkKhw3rzYWsYY4UVI2O74XVFU_QsWhOccNQ&oe=646E49AB">
+img src="https://scontent.fssa17-1.fna.fbcdn.net/v/t39.30808-6/347858868_908227746950811_6194513278621068443_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=730e14&_nc_eui2=AeHd6b7KtVkKkY4pIi_X-aL6FhvZnYApddEWG9mdgCl10cZz_srs3RojaY8G5KWyUBVo4RaI30Mh6VIk5b8nfaV-&_nc_ohc=9EjS7YFVFjgAX_B-HN8&_nc_ht=scontent.fssa17-1.fna&oh=00_AfD6UCaBnQupkKhw3rzYWsYY4UVI2O74XVFU_QsWhOccNQ&oe=646E49AB">
 
 <H3>Bibliografia✅</H3></br>
 
@@ -74,6 +73,4 @@ text-decoration:overline underline;color:black;
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=helguiita2021&bg_color=000000&color=ff00ff&line=a9a9a9&point=00ffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
-
-
 
