@@ -7,30 +7,6 @@
 Oi me chamo Helga.Curso Ciencias da Computação no instituto federal de educação ciência e tecnologia e analise e desenvolvimento de sistemas na Unifcs. Já programo a mais de 3 anos e estou me especializando também em redes e ciência de dados.
 </p></br>
 
-<style>
-
-div {
-
-background-color:grey11;
-
-
-}
-H3{
-
-font-size:20px;
-font-family:Stencial;
-background-color:darkgray;
-color:black;
-padding:2px;
-text-align:center;
-text-decoration:overline underline;color:black;
-
-}
-
-
-
- </style>   
-
 <h3>Minhas Redes✅</h3>
 
 <div imagen>
@@ -75,10 +51,3 @@ text-decoration:overline underline;color:black;
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=helguiita2021&bg_color=000000&color=ff00ff&line=a9a9a9&point=00ffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
-
-
-
-
-
-
-****
