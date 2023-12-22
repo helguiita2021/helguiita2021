@@ -1,5 +1,5 @@
 
-![Texto Alternativo](https://photos.google.com/photo/AF1QipOtaMpEmvMUZxsKUu1ltXhuWcYhXRx3h6x_xJp7)
+![Texto Alternativo](https://photos.google.com/photo/AF1QipOtaMpEmvMUZxsKUu1ltXhuWcYhXRx3h6x_xJp7.png)
 
 <H3>Bibliografia✅</H3></br>
 
