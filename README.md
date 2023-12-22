@@ -1,5 +1,5 @@
 
-<img src="https://photos.google.com/photo/AF1QipOtaMpEmvMUZxsKUu1ltXhuWcYhXRx3h6x_xJp7" alt="Texto Alternativo">
+<img src="https://photos.google.com/photo/AF1QipOtaMpEmvMUZxsKUu1ltXhuWcYhXRx3h6x_xJp7.png" alt="Texto Alternativo">
 
 <H3>Bibliografia✅</H3></br>
 
