@@ -1,5 +1,5 @@
 
-![Logo da Minha Empresa](https://photos.google.com/photo/AF1QipOtaMpEmvMUZxsKUu1ltXhuWcYhXRx3h6x_xJp7.png)
+<img src="https://photos.google.com/photo/AF1QipOtaMpEmvMUZxsKUu1ltXhuWcYhXRx3h6x_xJp7" alt="Texto Alternativo">
 
 <H3>Bibliografia✅</H3></br>
 
