@@ -4,7 +4,7 @@
 <H3>Bibliografia✅</H3></br>
 
 <p>
-Oi me chamo Helga.Curso Ciencias da Computação no instituto federal de educação ciência e tecnologia e analise e desenvolvimento de sistemas na Unifcs. Já programo a mais de 3 anos e estou me especializando também em redes e ciência de dados.
+Oi me chamo Helga.Curso Ciencias da Computação no instituto federal de educação ciência e tecnologia e analise e desenvolvimento de sistemas na Unifcs.
 </p></br>
 
 <h3>Minhas Redes✅</h3>
