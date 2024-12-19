@@ -46,7 +46,7 @@ Sou uma profissional versátil e determinada, sempre em busca de novos desafios 
 
 <div><br>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=helguiita2021&theme=blue-green)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helguiita2021&layout=compact)](https://github.com/helguiita2021/github-readme-stats)
 
 </div>
 
